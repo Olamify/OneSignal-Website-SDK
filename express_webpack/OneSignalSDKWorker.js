@@ -1,4 +1,4 @@
-// OneSignalSDKWorker.js
+// OneSignalSDKWorker.js file
 importScripts('https://cdn.onesignal.com/sdks/web/v16/OneSignalSDKWorker.js');
 
 self.addEventListener('push', function(event) {
